@@ -1,4 +1,4 @@
-<h2> <img src="https://pin.it/5s93hKN" width="30" /> Hi,There! <img src="https://pin.it/5s93hKN" width="30" /> I Am Arini </h2>
+<h2> <img src="https://user-images.githubusercontent.com/65858180/137293079-2440dbff-e887-4b1d-802c-49d49dcfd664.gif" width="30" /> Hi,There! <img src="https://user-images.githubusercontent.com/65858180/137293369-94c631b6-8a17-4256-927a-070da186734c.gif" width="30" /> I Am Arini </h2>
 
 I am currently studying Engineering Computer at Universitas Negeri Makassar. I am also studying at [COCONUT](https://Coconut.or.id).
 
